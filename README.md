@@ -70,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
