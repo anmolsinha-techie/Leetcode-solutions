@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3524-find-x-value-of-array-i](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
 | ------- |
