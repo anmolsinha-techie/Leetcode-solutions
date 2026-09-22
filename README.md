@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3524-find-x-value-of-array-i](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
