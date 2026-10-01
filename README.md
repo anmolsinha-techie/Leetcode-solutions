@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
