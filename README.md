@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
