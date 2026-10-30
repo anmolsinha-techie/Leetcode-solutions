@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2235-add-two-integers](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/anmolsinha-techie/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Geometry
